@@ -1,6 +1,6 @@
 # 小恐龙向前冲小游戏
 ## 游戏界面
-![canvas小恐龙](https://user-images.githubusercontent.com/87402177/198881528-d387175b-d5b0-4ff0-a9c4-acce6164febe.png)
+![canvas小恐龙](http://panpan.dapanna.cn//canvas%E5%B0%8F%E6%81%90%E9%BE%99.gif)
 ## 技术栈
 canvas+js+css
 
