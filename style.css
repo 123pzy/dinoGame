@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+#app {
+  height: 100%;
+  width: 100%;
+}
+
+.game_box {
+  height: 100%;
+  width: 100%;
+  display: grid;
+  place-content: center;
+  position: relative;
+}
+
+#canvas {
+  box-shadow: 0 0 10px #666;
+  border-radius: 10px;
+}
+
+#dino_canvas {
+  border: 2px solid #666;
+  display: none;
+}
+
+#btn {
+  height: 50px;
+  width: 100px;
+  color: #e67e22;
+  font-size: 20px;
+  font-weight: 700;
+  border: 1.5px solid #666;
+  border-radius: 10px;
+  background-color: #ffeaa1;
+  cursor: pointer;
+  position: absolute;
+  bottom: 200px;
+  left: 50%;
+  /* 设置按钮水平居中： */
+  transform: translateX(-50%);
+}
